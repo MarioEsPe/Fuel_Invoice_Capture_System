@@ -105,6 +105,4 @@ This project is licensed under the MIT License – free to use, modify, and dist
 This project was created as part of Harvard’s CS50P – Introduction to Programming with Python.
 Special thanks to the CS50 team for their guidance and excellent course material.
 =======
-# Fuel_Invoice_Capture_System
-The Fuel Invoice Capture System automates the process of managing fuel invoices during a work shift. Using OCR technology, the program extracts key data from invoice images, organizes the information into an Excel template, performs automatic calculations, and generates a final report in both Excel and PDF format.
->>>>>>> 56b396f0e7a28eeb13a2ee541c76a677f950ff31
+
